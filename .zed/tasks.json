@@ -1,0 +1,14 @@
+[
+	{
+		"label": "Compile & Run",
+		"command": "gcc main.c -o main && ./main",
+		"use_new_terminal": true,
+		"allow_concurrent_runs": false,
+		"reveal": "no_focus",
+		"reveal_target": "dock",
+		"hide": "never",
+		"shell": "system",
+		"show_summary": true,
+		"show_command": true,
+	},
+]
